@@ -1,0 +1,26 @@
+#code designed by blackhack ©®
+# este script es diseñado para principiantes y su func>
+echo "#--------------------------#"
+echo "#                          #"
+echo "#      SCRIPT:BY           #"
+echo "#                          #"
+echo "#     BLACK  HACK          #"
+echo "#                          #"
+echo "#   DATE: 17/04/2020       #"
+echo "#--------------------------#"
+
+
+#proceso de instalacion
+
+1. darle permisos con el comando chmod +x
+2. para ejecutar el archivo escribir el siguiente
+comando bash black.sh
+3. si te gusto puedes realizar una donacion para
+seguir apoyando nuestro trabajo
+
+wallet: 3GVf7WzrwupHu3wHz7agBg5LdEbaa1yLXQ <--- puedes dejar tu contribución 
+
+
+#HAPPY HACKING 
+
+Usar el script de forma responsable.
