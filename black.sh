@@ -19,7 +19,7 @@ echo "tu profesion: "
 read profesion
 #ejecutando
 
-echo "mi nombre $nombre tu profesion es $profesion"
+echo "HOLA: $nombre INTERESANTE: $profesion"
 
 #codigo script
 
@@ -53,4 +53,6 @@ sleep 2
 nmap -sS $url
 sleep 3
 
-
+echo "si te gusto puedes dejar una donacion"
+echo "3GVf7WzrwupHu3wHz7agBg5LdEbaa1yLXQ"
+sleep 15
