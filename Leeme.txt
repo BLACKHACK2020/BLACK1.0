@@ -9,6 +9,21 @@ echo "#                          #"
 echo "#   DATE: 17/04/2020       #"
 echo "#--------------------------#"
 
+#DESCRIPCION DEL SCRIPT
+
+Este script esta basado en el lenguaje de bash
+esta inicialmente pensado para ahorrarnos tiempo
+con la automatizacion de los siguientes comandos:
+
+- host
+- whois
+- Nmap
+- ping
+
+por el momento el script esta en fase BETA pero se
+seguiran implementando mas herramientas e 
+introduciendo mas comandos para convertirla en el
+mejor script de automatizacion de procesos.
 
 #proceso de instalacion
 
